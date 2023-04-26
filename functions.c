@@ -4,7 +4,7 @@
  * @types: list of arguments
  * @buffer: buffer of the array
  * @flags: active flags
- * @width: width 
+ * @width: width
  * @precision: precision spec
  * @size: size spec
  * Return: num of printed chars

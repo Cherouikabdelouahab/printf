@@ -120,7 +120,7 @@ int print_rev(va_list types, char buffer[],
 	return (count);
 }
 /**
- * print_rot13string - print a string encoded in rot13 
+ * print_rot13string - print a string encoded in rot13
  * @types: list of arguments
  * @buffer: buffer array
  * @flags: active flags
